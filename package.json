@@ -1,4 +1,8 @@
 {
   "name": "application-name",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "devDependencies": {
+    "moment": "^2.17.1",
+    "nightwatch": "^0.9.12"
+  }
 }
